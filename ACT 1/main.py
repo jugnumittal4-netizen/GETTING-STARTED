@@ -1,0 +1,6 @@
+print("hello world \n")
+print("welcome to the world of programing \n")
+print("this is made by a language of a computer known as python \n")
+print("python stays one of the most easy to understand coding language. \n ")
+print("almost every advanced coder knows how to use python \n")
+print("pyhton was made by a man in 1991 and he named this programme randomly from a movie/show he was watching")
