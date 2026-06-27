@@ -1,3 +1,3 @@
-import keyword
-print("all of python key words are \n")
-print(keyword.kwlist)
+print("welcome to my website")
+a=int(input("enter ur bithday as ddmmyyyy:"))
+print("your bithday is on ",a)
